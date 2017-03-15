@@ -26,7 +26,7 @@ privateKeyInfo='99'+'{0:04d}'.format(len(privateKey))+privateKey
 ##lmk id
 lmkId='00'
 
-rawData='RSA Signature Input - American Express'
+rawData='RSA Signature Input - Daalitoy '
 
 ## for verification
 signature=binascii.unhexlify('27fbb4479b1a4041eb590bb6b3260c43209b5e3c91027c686f95cd46f49610bc51dfd06e37f3518b87faeac99824a518708eb28946628afde9831181e9078b8ce2837a50c8ffdc801197ba0c6166b31a67beb604d1419264b812fa3ed6cb8ee27c19096be7f0b1d00c01ea07548a2c2467bfb1b5eceb0de262c6f223751a8895')
